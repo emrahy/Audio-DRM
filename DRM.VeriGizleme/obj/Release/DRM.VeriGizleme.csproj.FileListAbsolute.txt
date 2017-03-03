@@ -1,0 +1,16 @@
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\DRM.VeriGizleme.exe.config
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\DRM.VeriGizleme.exe.manifest
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\DRM.VeriGizleme.application
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\DRM.VeriGizleme.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\DRM.VeriGizleme.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\NAudio.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\bin\Release\NAudio.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.csprojResolveAssemblyReference.cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.Form1.resources
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.Properties.Resources.resources
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.csproj.GenerateResource.Cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.exe.manifest
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.application
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\DRM.VeriGizleme\obj\Release\DRM.VeriGizleme.pdb

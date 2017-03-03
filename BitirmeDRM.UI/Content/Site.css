@@ -1,0 +1,69 @@
+﻿body {
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+a.brand {
+    color: #428bca;
+    margin-left:10px;
+}
+
+    a.brand:hover {
+        text-decoration: none;
+    }
+
+.span4 {
+    width: 200px;
+}
+
+.music {
+    box-sizing: content-box;
+    border-radius: 5px;
+    box-shadow: 0px 1px 5px rgba(0,0,0,250);
+    margin: 5px;
+}
+
+.music-title {
+    border-bottom: 1px solid rgb(227, 227, 227);
+    height: 70px;
+    padding: 10px 10px;
+}
+    .music-title h3 {
+        font-size: 14px;
+        text-align: center;    
+    }
+        .music-title h3 a:hover {
+            text-decoration: none;
+        }
+
+.music-image{
+    border-bottom: 1px solid  rgb(227, 227, 227);
+    padding:3px;
+    text-align:center;
+}
+
+.music-name {
+    font-size: 16px;
+    line-height: 55px;
+    text-align: center;
+    width: 100%;
+}

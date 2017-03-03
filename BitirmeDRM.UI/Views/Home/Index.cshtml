@@ -1,0 +1,76 @@
+﻿@model List<BitirmeDRM.Data.Model.Muzik>
+@{
+    ViewBag.Title = "Ana Sayfa";
+}
+<div class="row">
+    @Html.Partial("MainMenu")
+    <div class="col-md-10 col-sm-10 col-xs-10">
+        @Html.Partial("MusicList", Model)
+    </div>
+</div>
+
+<script>
+    //Tarayıcı kontrolü
+    var isIE = false || !!document.documentMode;
+
+    function download(id) {
+        //Tarayıcı Internet Explorer ise
+        if (isIE)
+        {
+            var returnValue = DonanimBilgisi();
+            if (returnValue == "hata") {
+                alert("Ses dosyasını indirmeniz için: ActiveX'i etkinleştirin.");
+            } else {
+                if (returnValue.indexOf("CPUID") >= 0)
+                {
+                    $.ajax({
+                        url: '@Url.Action("DownloadFile", "Home")',
+                        contentType: 'application/json; charset=utf-8',
+                        datatype: 'json',
+                        data: {
+                            hwid: returnValue,
+                            mid: id
+                        },
+                        type: "GET",
+                        success: function () {
+                            window.location = '@Url.Action("DownloadFile", "Home", new { hwid = "val1", mid = "val2" })'.replace("val1", returnValue).replace("val2", id);
+                        }
+                    })
+                }
+                else
+                {
+                    alert("Ses dosyasını indirmeniz için: ActiveX'i etkinleştirin.");
+                }
+            }
+        }
+        else
+            alert("Ses dosyasını indirmek için:\n \t -İnternet Explorer tarayıcısını kullanın.\n \t -ActiveX'i etkinleştirin.");
+    };
+
+    function DonanimBilgisi() {
+        try {
+            var locator = new ActiveXObject("WbemScripting.SWbemLocator");
+            var service = locator.ConnectServer(".");
+            var properties = service.ExecQuery("SELECT * FROM Win32_Processor");
+            var e = new Enumerator(properties);
+            var result = "";
+            for (; !e.atEnd() ; e.moveNext()) {
+                var p = e.item();
+                result += "CPUID: " + p.ProcessorID + " SYSTEMNAME: " + p.SystemName;
+            }
+            properties = service.ExecQuery("SELECT * FROM Win32_BIOS");
+            var e2 = new Enumerator(properties);
+            for (var i = 0; !e2.atEnd() ; e2.moveNext()) {
+                var p2 = e2.item();
+                result += " BIOS: " + p2.SerialNumber;
+            }
+            return result;
+        }
+        catch (err) {
+            return "hata";
+        }
+
+    }
+
+</script>
+

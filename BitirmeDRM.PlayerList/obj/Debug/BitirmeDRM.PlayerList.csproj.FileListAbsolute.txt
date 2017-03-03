@@ -1,0 +1,41 @@
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.exe.config
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\Interop.WMPLib.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csproj.ResolveComReference.cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\Interop.WMPLib.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csprojResolveAssemblyReference.cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.Form1.resources
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.Properties.Resources.resources
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csproj.GenerateResource.Cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\NAudio.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\NAudio.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\DRM.VeriGizleme.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\DRM.VeriGizleme.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.exe.config
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\DRM.VeriGizleme.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\DRM.VeriGizleme.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\NAudio.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\Interop.WMPLib.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csproj.ResolveComReference.cache
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.Form1.resources
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.Properties.Resources.resources
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csproj.GenerateResource.Cache
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.pdb
+E:\Belgeler\Projeler\BitirmeDRM\BitirmeDRM.PlayerList\bin\Debug\BitirmeDRM.PlayerList.exe.config
+E:\Belgeler\Projeler\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\Interop.WMPLib.dll
+E:\Belgeler\Projeler\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\AxInterop.WMPLib.dll
+E:\Belgeler\Projeler\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.csproj.ResolveComReference.cache
+E:\Belgeler\Projeler\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.exe
+E:\Belgeler\Projeler\BitirmeDRM\BitirmeDRM.PlayerList\obj\Debug\BitirmeDRM.PlayerList.pdb

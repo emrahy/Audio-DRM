@@ -1,0 +1,24 @@
+﻿<div class="col-xs-2 col-sm-2 col-md-2 ">
+    @{ var obj = (List<BitirmeDRM.Data.Model.Kategori>)ViewData["Kategori"];
+
+    if (obj != null)
+    {
+            <ul class="nav nav-pills nav-stacked">
+                @foreach (var category in obj)
+                {
+                    <li>
+                        @Html.ActionLink(category.KategoriAdi,"Kategori","Home", new { id= category.KategoriId}, new { })
+                    </li>
+                }
+            </ul>
+        }
+    }
+    <ul class="nav nav-pills nav-stacked">
+            <li>
+                <a href="@Url.Action("ActiveX","Home")" onclick="window.open(this.href, 'ActiveX Nasıl Etkinleştirilir?',
+'left=20,top=20,width=1000,height=450,toolbar=1,resizable=0'); return false;">ActiveX Nasıl Etkinleştirilir?</a>
+            </li>
+        <li><a href="~/Content/drm.rar">DRM Uygulamasını İndir</a></li>
+    </ul>
+
+</div>

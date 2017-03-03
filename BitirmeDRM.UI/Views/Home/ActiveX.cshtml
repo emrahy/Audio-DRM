@@ -1,0 +1,97 @@
+﻿
+@{
+    Layout = null;
+}
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>ActiveX Nasıl Etkinleştirilir?</title>
+    <style>
+        .float-my-children > * {
+            float: left;
+            margin-right: 5px;
+        }
+
+        .clearfix {
+            *zoom: 1; /* for IE */
+        }
+
+            .clearfix:before,
+            .clearfix:after {
+                content: " ";
+                display: table;
+            }
+
+            .clearfix:after {
+                clear: both;
+            }
+
+
+        body > div {
+            border: 1px dashed red;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="clearfix float-my-children">
+        <img src="~/Content/Images/activex.gif" width=300>
+        <div>
+            <div class="">
+                <p class="para">
+                    Internet&nbsp;Explorer'ın ActiveX denetimlerini etkinleştirmek isterseniz, şunları yapın:
+                </p>
+                <ol class="ordered_dec">
+                    <li class="listItem">
+                        <p class="para">
+                            Internet&nbsp;Explorer'ı açın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">Araçlar</span> menüsünü ve <span class="ui">Internet Seçenekleri</span>'ni tıklatın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">Güvenlik</span> sekmesinde <span class="ui">Özel düzey</span> düğmesini tıklatın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">Güvenlik Ayarları</span> listesini <span class="ui">ActiveX denetimleri ve <br>eklentiler</span> seçeneğini görene kadar aşağı kaydırın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">ActiveX denetimlerinde otomatik olarak sor</span> seçeneğinde <span class="ui">Etkinleştir</span>'i tıklatın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">İmzalı ActiveX denetimlerini karşıdan yükle</span> seçeneğine gidin ve <br><span class="ui">Etkinleştir</span> ya da <span class="ui">Sor</span> seçeneğini tıklatın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">ActiveX denetimlerini ve eklentilerini çalıştır</span> seçeneğine gidin ve <br><span class="ui">Etkinleştir</span> ya da <span class="ui">Sor</span> seçeneğini tıklatın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">Çalıştırılması güvenli ActiveX denetimlerini komut dizilerinde kullan</span> seçeneğine gidin ve <br><span class="ui">Etkinleştir</span> ya da <span class="ui">Sor</span> seçeneğini tıklatın.
+                        </p>
+                    </li>
+                    <li class="listItem">
+                        <p class="para">
+                            <span class="ui">Tamam</span>'ı ve tekrar <span class="ui">Tamam</span>'ı tıklatın.
+                        </p>
+                    </li>
+                </ol>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

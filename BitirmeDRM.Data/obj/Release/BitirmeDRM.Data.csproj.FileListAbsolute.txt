@@ -1,0 +1,4 @@
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Data\bin\Release\BitirmeDRM.Data.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Data\bin\Release\BitirmeDRM.Data.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Data\obj\Release\BitirmeDRM.Data.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Data\obj\Release\BitirmeDRM.Data.pdb

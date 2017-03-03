@@ -1,0 +1,20 @@
+﻿@model List<BitirmeDRM.Data.Model.Muzik>
+
+@foreach (var music in Model)
+{
+    <div class="music span4 col-xs-6  col-sm-4 col-md-2 col-xs-offset-4 col-sm-offset-0 col-md-offset-0 col-lg-offset-0">
+        <div class="music-title">
+            <h3>
+                @Html.ActionLink(music.MuzikAdi,"Index","Music", new { id = music.MuzikId}, new { })
+            </h3>
+        </div>
+        <div class="music-image">
+            <a href="@Url.Action("Index","Music",new { id = music.MuzikId } )"   >
+                <img class="img-responsive"  src="@music.MuzikGorsel"  />
+            </a>
+        </div>
+        <div class="music-name">
+            <button onclick="return download(@music.MuzikId);" class="btn btn-success btn-sm">Ses Dosyasını İndir</button>
+        </div>
+    </div>
+}

@@ -1,0 +1,158 @@
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\csc.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\vbc.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.UI.dll.config
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.UI.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.UI.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Antlr3.Runtime.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.Integration.Mvc.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Core.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Data.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\DRM.VeriGizleme.exe
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Newtonsoft.Json.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Owin.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Helpers.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Mvc.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Optimization.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Razor.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\WebGrease.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Core.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Data.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\DRM.VeriGizleme.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.Integration.Mvc.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Helpers.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Mvc.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Optimization.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Razor.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Newtonsoft.Json.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\obj\Debug\BitirmeDRM.UI.csprojResolveAssemblyReference.cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\obj\Debug\BitirmeDRM.UI.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.UI\obj\Debug\BitirmeDRM.UI.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\csc.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\vbc.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.UI.dll.config
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.UI.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.UI.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Antlr3.Runtime.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.Integration.Mvc.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Core.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Data.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\DRM.VeriGizleme.exe
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Newtonsoft.Json.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Owin.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Helpers.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Mvc.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Optimization.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Razor.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\WebGrease.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Core.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\BitirmeDRM.Data.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\DRM.VeriGizleme.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Autofac.Integration.Mvc.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Helpers.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Mvc.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Optimization.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.Razor.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Antlr3.Runtime.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Newtonsoft.Json.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\obj\Debug\BitirmeDRM.UI.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\obj\Debug\BitirmeDRM.UI.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.UI\obj\Debug\BitirmeDRM.UI.pdb

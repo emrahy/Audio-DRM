@@ -1,0 +1,14 @@
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Core.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Core.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Data.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Data.pdb
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\obj\Debug\BitirmeDRM.Core.csprojResolveAssemblyReference.cache
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\obj\Debug\BitirmeDRM.Core.dll
+C:\Users\emrahy\Documents\Visual Studio 2015\Projects\DRM\BitirmeDRM\BitirmeDRM.Core\obj\Debug\BitirmeDRM.Core.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\obj\Debug\BitirmeDRM.Core.csprojResolveAssemblyReference.cache
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\obj\Debug\BitirmeDRM.Core.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\obj\Debug\BitirmeDRM.Core.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Core.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Core.pdb
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Data.dll
+C:\Users\Emrah\Desktop\BitirmeDRM\BitirmeDRM.Core\bin\Debug\BitirmeDRM.Data.pdb
